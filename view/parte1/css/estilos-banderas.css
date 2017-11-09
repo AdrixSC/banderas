@@ -1,0 +1,15 @@
+.yellow, .black{
+  padding: 10px;
+  margin: 10px;
+  height: 80px;
+  font-family: sans-serif;
+}
+
+.yellow{
+  background-color: #f7b617;
+  }
+
+.black{
+  background-color: black;
+  color: white;
+}
