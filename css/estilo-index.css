@@ -1,0 +1,24 @@
+.diseño1 {
+  background: #1dd6c6;
+  padding: 30px;
+
+}
+
+.diseño2 {
+  background: #31a59a;
+  padding: 30px;
+
+}
+
+div {
+  width: 25%;
+  display: block;
+  text-align: center;
+}
+
+a{
+  color: white;
+  text-align: center;
+  font-style: normal;
+  font-family: sans-serif
+}
